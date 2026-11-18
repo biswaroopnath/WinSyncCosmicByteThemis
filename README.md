@@ -1,6 +1,6 @@
 # Cosmic Byte Accent Sync for Windows 11
 
-This utility keeps the Fixed Mode RGB colour of your supported Cosmic Byte keyboard matched to your Windows accent colour.
+This utility keeps the Fixed Mode RGB colour of your supported Cosmic Byte Themis keyboard matched to your Windows accent colour.
 
 ## Before You Start
 
